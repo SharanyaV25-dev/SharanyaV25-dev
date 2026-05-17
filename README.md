@@ -1,6 +1,6 @@
 👋 Hi, I'm Sharanya Velappasami
 
-🚀 Aspiring Data Engineer | Python • SQL • MySQL | Open to Remote Work (WFH)
+🚀 Aspiring Data Engineer | Python • SQL • MySQL
 
 I’m a software engineer transitioning into Data Engineering, building real-world data pipelines using Python and SQL.
 My backend development experience helps me design reliable, production-style data workflows and understand end-to-end systems.
