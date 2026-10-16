@@ -32,7 +32,7 @@ An enterprise-grade data pipeline simulating a high-throughput logistics platfor
 ---
 
 ### 📫 Let's Connect
-Actively seeking remote or hybrid Data Engineer opportunities (Tamil Nadu / Kerala) to build scalable, analytics-ready data platforms.
+Actively seeking remote or hybrid Data Engineer opportunities to build scalable, analytics-ready data platforms.
 
 📧 **Email:** vsharanya00@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/v-sharanya/
